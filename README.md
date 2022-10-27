@@ -4,4 +4,6 @@
 - 👯 I’m looking to collaborate on Deep Learning Models
 - 📫 How to reach me: https://www.linkedin.com/in/prakhar34/ 
 
-![Snake animation](https://github.com/lancelot-zen/lancelot-zen/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
