@@ -19,3 +19,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lancelot-zen&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lancelot-zen&theme=blue-green)
