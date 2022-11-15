@@ -1,7 +1,5 @@
-https://github-hero-readme.vercel.app/api?username=lancelot-zen&linkedin=prakhar34&description=Web%20Developer%20%7C%20Competitive%20%20Programmer
+<img src="https://github-hero-readme.vercel.app/api?username=lancelot-zen&linkedin=prakhar34&description=Web%20Developer%20%7C%20Competitive%20%20Programmer" width=100%>
 
-
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
