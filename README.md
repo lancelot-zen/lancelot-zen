@@ -12,7 +12,7 @@
 </div> 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Generative PreTrained Transformer Models
 - 👯 I’m looking to collaborate on Deep Learning Models
 - 📫 How to reach me: https://www.linkedin.com/in/prakhar34/ 
 
