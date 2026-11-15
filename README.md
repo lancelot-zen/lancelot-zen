@@ -149,7 +149,6 @@ interests:
 ### 📱 Systems
 
 - Android Platform
-- Mobile Testing
 - Linux
 - Automation Frameworks
 
@@ -189,7 +188,6 @@ interests:
 # ♟️ Beyond Coding
 
 ```text
-▸ Chess
 ▸ Startups
 ▸ AI Research
 ▸ Open Source
