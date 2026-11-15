@@ -4,13 +4,14 @@
 
 # ⚡ Prakhar Mishra
 
-### Android Systems • AI Agents • Full Stack Development • Competitive Programming
+### Engineer @ Qualcomm | Android Systems | AI Agents | Full Stack Builder
 
 <p>
-Building intelligent systems, scalable applications, automation frameworks,
-and AI-powered products.
+Designing intelligent systems, building AI-powered products,
+and engineering scalable software from backend services to Android platforms.
 </p>
 
+<p>
 <a href="https://www.linkedin.com/in/prakhar34/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,11 +22,21 @@ and AI-powered products.
 
 <img src="https://komarev.com/ghpvc/?username=lancelot-zen&style=for-the-badge&color=blueviolet"/>
 
+</p>
+
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Android+Systems+Engineer;AI+Agent+Builder;Full+Stack+Developer;Problem+Solver;Always+Learning+Always+Building" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="430" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 About Me
 
@@ -33,28 +44,32 @@ and AI-powered products.
 name: Prakhar Mishra
 
 role:
-  - Engineer
+  - Software Engineer
   - AI Builder
   - Android Enthusiast
 
 location: Hyderabad, India
 
 currently_working_on:
+  - Android Testing Infrastructure
   - AI Agents
   - Agentic Workflows
   - Full Stack Applications
 
 currently_learning:
-  - LLM Infrastructure
+  - Advanced LLM Systems
   - Distributed Systems
+  - AI Infrastructure
+  - System Design
 
 interests:
-  - Systems Design
   - Artificial Intelligence
+  - Android Framework
+  - Competitive Programming
+  - Product Engineering
   - Open Source
 ```
 
-<br>
 <br>
 <br>
 
@@ -64,10 +79,19 @@ interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring"/><br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postgres,mongodb"/><br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postgres,mongodb"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,vscode"/>
 
 </div>
 
@@ -76,13 +100,13 @@ interests:
 # 🧠 Current Mission
 
 ```text
-[✓] Build Strong System Design Foundation
-[✓] Master Android Internals
-[✓] Build AI Agents
-[⟳] Ship AI Products
-[⟳] Contribute More To Open Source
-[⟳] Become Expert-Level Competitive Programmer
-[ ] Build Startup Worth Talking About
+[✓] Strengthen Android Platform Knowledge
+[✓] Build Production-Ready AI Agents
+[✓] Master Full Stack Development
+[⟳] Deep Dive into System Design
+[⟳] Contribute More to Open Source
+[⟳] Build AI Products at Scale
+[ ] Launch a Startup
 ```
 
 ---
@@ -97,9 +121,7 @@ interests:
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
@@ -109,115 +131,57 @@ interests:
 
 ---
 
-# 📈 Activity Graph
+# 📈 GitHub Metrics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lancelot-zen&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lancelot-zen&theme=tokyonight"/>
+
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lancelot-zen&theme=tokyonight"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lancelot-zen&theme=tokyonight"/>
+
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lancelot-zen&theme=tokyonight"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lancelot-zen&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🌟 What I'm Building
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lancelot-zen&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+| Focus Area | Current Work |
+|------------|-------------|
+| 🤖 AI | Agentic Systems & LLM Apps |
+| 📱 Android | Test Automation & Platform Development |
+| 🌐 Full Stack | Modern Web Applications |
+| ⚙️ Systems | Scalable Backend Services |
+| 🚀 Product | AI-Powered Experiences |
 
 </div>
 
 ---
 
-# 🌌 Featured Domains
-
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 AI
-
-- Agentic AI
-- LLM Applications
-- Automation Systems
-- Prompt Engineering
-
-</td>
-
-<td width="33%">
-
-### 📱 Systems
-
-- Android Platform
-- Linux
-- Automation Frameworks
-
-</td>
-
-<td width="33%">
-
-### 🌐 Development
-
-- React
-- Next.js
-- Spring Boot
-- Full Stack Apps
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Repositories
+# 🎯 2027 Roadmap
 
 <div align="center">
 
-<a href="https://github.com/lancelot-zen/ChromeChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lancelot-zen&repo=ChromeChat&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/lancelot-zen/WealthDesk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lancelot-zen&repo=WealthDesk&theme=tokyonight"/>
-</a>
+| Goal | Status |
+|--------|--------|
+| Advanced AI Engineering | 🚧 |
+| Android Internals Mastery | 🚧 |
+| Distributed Systems | 🚧 |
+| Open Source Contributions | 🚧 |
+| Launch AI Product | 🚧 |
+| Build Startup | 🎯 |
 
 </div>
 
 ---
-
-# ♟️ Beyond Coding
-
-```text
-▸ Startups
-▸ AI Research
-▸ Open Source
-▸ Competitive Programming
-▸ Product Building
-```
-
----
-
-# 💭 Philosophy
-
-<div align="center">
-
-### "Build things that compound."
-
-Skills.
-Systems.
-Products.
-People.
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👨‍💻
-
-⭐ If you like my work, consider following me.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
