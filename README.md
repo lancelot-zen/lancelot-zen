@@ -40,7 +40,6 @@ role:
 location: Hyderabad, India
 
 currently_working_on:
-  - Android Test Automation
   - AI Agents
   - Agentic Workflows
   - Full Stack Applications
@@ -48,12 +47,10 @@ currently_working_on:
 currently_learning:
   - LLM Infrastructure
   - Distributed Systems
-  - Advanced AI Engineering
 
 interests:
   - Systems Design
   - Artificial Intelligence
-  - Competitive Programming
   - Open Source
 ```
 
