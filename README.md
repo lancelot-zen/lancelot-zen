@@ -51,14 +51,12 @@ role:
 location: Hyderabad, India
 
 currently_working_on:
-  - Android Testing Infrastructure
   - AI Agents
   - Agentic Workflows
   - Full Stack Applications
 
 currently_learning:
   - Advanced LLM Systems
-  - Distributed Systems
   - AI Infrastructure
   - System Design
 
@@ -160,7 +158,7 @@ interests:
 | Focus Area | Current Work |
 |------------|-------------|
 | 🤖 AI | Agentic Systems & LLM Apps |
-| 📱 Android | Test Automation & Platform Development |
+| 📱 Android | Platform Development |
 | 🌐 Full Stack | Modern Web Applications |
 | ⚙️ Systems | Scalable Backend Services |
 | 🚀 Product | AI-Powered Experiences |
